@@ -22,7 +22,7 @@ I am also skilled at skill 2
 
 #### Makers Academy (May 18 - August 18)
 
-- Check out my "hello world" repo on Github
+- Check out my [hello world](https://github.com/anguspettifer/hello-world) repo on Github
 
 #### General Assembly (September 16 – December 16)
 
