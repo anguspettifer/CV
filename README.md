@@ -2,6 +2,8 @@
 
 About me
 
+[Skills](#Skills) | [Education](#Education) |[Experience](#Experience)
+
 ## Skills
 
 #### Skill 1
