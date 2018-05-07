@@ -2,7 +2,7 @@
 
 About me
 
-[Skills](#Skills) | [Education](#Education) |[Experience](#Experience)
+[Skills](#skills) | [Education](#education) |[Experience](#experience)
 
 ## Skills
 
