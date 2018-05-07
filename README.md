@@ -1,50 +1,42 @@
-## Your Name
+## Angus Pettifer
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+About me
 
 ## Skills
 
-#### This Skill
+#### Skill 1
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I am skilled at skill 1
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Skill 2
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I am also skilled at skill 2
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 18 - August 18)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Check out my "hello world" repo on Github
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### General Assembly (September 16 – December 16)
 
-#### Your University / College (start_date to end_date)
+- Data Science
+- Part time 3-month course covering data science fundamentals
+- Project accurately predicted the 2017 six nations
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Durham University (2008 – 2011)
+- Mathematics BSc Hons, Upper Second Class,
+- Modules included Financial Maths, Actuarial Maths, Game Theory, Probability and Statistics
 
-#### Any other qualifications
+#### Churcher’s College (2002 – 2007)
+- A levels: Maths (A), Further Maths (A), Physics (A) and Chemistry (A)
+- GCSEs: 10 subjects graded A* - B including Maths and English
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Bank of America Merrill Lynch** (Jul 11 – Feb 18)  
+*Vice President - Rates Sales*  
