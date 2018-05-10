@@ -2,13 +2,13 @@
 
 About me
 
-[Skills](#skills) | [Education](#education) |[Experience](#experience)
+[Skills](#skills) | [Education](#education) |[Experience](#experience) | [Hobbies/Qualifications](#hobbies/qualifications)
 
 ## Skills
 
 #### Skill 1
 
-I am skilled at skill 1
+I am skilled at Skill 1
 
 - Experience
 - Achievements
@@ -16,7 +16,7 @@ I am skilled at skill 1
 
 #### Skill 2
 
-I am also skilled at skill 2
+I am also skilled at Skill 2
 
 ## Education
 
@@ -42,3 +42,6 @@ I am also skilled at skill 2
 
 **Bank of America Merrill Lynch** (Jul 11 – Feb 18)  
 *Vice President - Rates Sales*  
+
+## Hobbies/Qualifications
+- I have hobbies and qualifications
