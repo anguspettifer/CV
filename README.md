@@ -1,6 +1,9 @@
 ## Angus Pettifer
 
-About me
+I’m a maths graduate who has leapt out of a (reasonably) successful career in banking to explore the greener grass to the east of the city. I’m currently learning to learn to code at Makers Academy and am thoroughly looking forward to being a fully-fledged software developer.
+
+For the past 6.5 years I have been working at Merrill Lynch in the centre of a loud, fast-paced trading floor; buying and selling government debt and interest rate derivatives. However, a quest for problem solving and project driven work as well as a more flexible work-life led me to up sticks.
+
 
 [Skills](#skills) | [Education](#education) |[Experience](#experience) | [Hobbies/Qualifications](#hobbies/qualifications)
 
