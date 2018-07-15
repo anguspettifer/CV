@@ -2,21 +2,13 @@
 
 I am a maths graduate who has leapt out of a (reasonably) successful career in banking to explore the greener grass to the east of the city. I chose software because I love problem solving and wanted to shift into a more creative realm. I am currently learning to learn to code at Makers (INSERT LINK TO MAKERS WEBSITE) and am excited about what I am going to build today.
 
-Want to know more about how I think? Here is my blog.
-
-[This is my blog](https://www.google.com "This is my blog title")
+Want to know more about how I think? [This](https://blog.makersacademy.com/painting-your-face-green-and-making-a-ship-out-of-glass-a-balancing-act-9fc2f9fc1f46) is my blog.
 
 
-[Code](#code)|[Skills](#skills) | [Education](#education) |[Experience](#experience) | [Hobbies/Qualifications](#hobbies/qualifications)
+[Code](#code) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
 ## Code
 
-Table format
-
-link to final project
-link to bank tech test
-link to petbook
-link to airport (to see how far I've come)
 
 Code ethos:
 
@@ -25,6 +17,13 @@ Makers teaches us that code should be test driven. We start TDD on the first day
 In my former job, just before I left there was a far-reaching expansion of existing technologies for regulatory requirements. It is now clear to me that this codebase had not been test driven. New errors popped up after every release which was very costly for the business.
 
 I am a convert to the practice that Makers preach.
+
+| Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
+|--|--|--|--|--|
+| [Petbook](https://github.com/chrisrusselldigital/acebook-petbook) | Group project to make facebook for pets. We followed a 2-day sprint structure, sandwiched with planning sessions and retros. We had a stand up each morning and would take turns in running each of these ceremonies. We maintained a trello board for workflow. You can read about our experience [here](https://medium.com/makers-group-project).  | 2 weeks | Ruby, Rails | Capybara, Rspec |
+| [Airport challenge](https://github.com/anguspettifer/airport_challenge
+) | This was my first weekend project | 2 weeks | Ruby | Rspec |
+
 
 ## Skills
 
