@@ -1,8 +1,8 @@
 ## Angus Pettifer
 
-I am a maths graduate who has leapt out of a (reasonably) successful career in banking to explore the greener grass to the east of the city. I chose software because I love problem solving and wanted to shift into a more creative realm. I am currently learning to learn to code at Makers (INSERT LINK TO MAKERS WEBSITE) and am excited about what I am going to build today.
+I am a maths graduate who has leapt out of a (reasonably) successful career in banking to explore the greener grass to the east of the city. I chose software because I love problem solving and wanted to shift into a more creative realm. I am currently learning to learn to code at [Makers] (https://makers.tech/) and am excited about what I am going to build today.
 
-Want to know more about how I think? [This](https://blog.makersacademy.com/painting-your-face-green-and-making-a-ship-out-of-glass-a-balancing-act-9fc2f9fc1f46) is my blog.
+Want to know more about how I think? [Here](https://blog.makersacademy.com/painting-your-face-green-and-making-a-ship-out-of-glass-a-balancing-act-9fc2f9fc1f46) is my blog.
 
 
 [Code](#code) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
@@ -12,7 +12,7 @@ Want to know more about how I think? [This](https://blog.makersacademy.com/paint
 
 Code ethos:
 
-Makers teaches us that code should be test driven. We start TDD on the first day and it is the cornerstone throughout the course. Daily pair programming, whilst continually changing pairs quickly enforces the need to have readable code. We also are encouraged to keep our code DRY and to follow the SOLID principles in OO development.
+Makers teaches us that code should be test driven. We start TDD on the first day and it is the cornerstone of our development process throughout the course. Daily pair programming, whilst continually changing pairs quickly enforces the need to have readable code. We also are encouraged to keep our code DRY and to follow the SOLID principles in OO development.
 
 In my former job, just before I left there was a far-reaching expansion of existing technologies for regulatory requirements. It is now clear to me that this codebase had not been test driven. New errors popped up after every release which was very costly for the business.
 
@@ -21,7 +21,7 @@ I am a convert to the practice that Makers preach.
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | [Petbook](https://github.com/chrisrusselldigital/acebook-petbook) | Group project to make facebook for pets. We followed a 2-day sprint structure, sandwiched with planning sessions and retros. We had a stand up each morning and would take turns in running each of these ceremonies. We maintained a trello board for workflow. You can read about our experience [here](https://medium.com/makers-group-project).  | 2 weeks | Ruby, Rails | Capybara, Rspec |
-| [Airport challenge](https://github.com/anguspettifer/airport_challenge) | This was my first weekend project | 2 weeks | Ruby | Rspec |
+| [Airport challenge](https://github.com/anguspettifer/airport_challenge) | This was my first weekend project, read it to see how far I've come.  | 2 weeks | Ruby | Rspec |
 
 
 ## Skills
@@ -30,7 +30,7 @@ I am a convert to the practice that Makers preach.
 
 To work out of my comfort zone
 
-“You have a unique confidence to try something that you have little to no expertise in” a good friend told me when I was considering the career shift to coding. I was flattered by the compliment but save for the use of the word unique, I think it is fairly accurate. If anyone asks for a volunteer I am usually the first to put my hand up. I feel that you learns much quicker when you have to, so I like to jump in with two feet.
+“You have a unique confidence to try something that you have little to no expertise in” a good friend told me when I was considering the career shift to coding. I was flattered by the compliment but, save for the use of the word unique, I think it is fairly accurate. Dyslexia made the early part of my education a slow and frustrating process. Over the years I came to realise that working harder than peers in order to achieve the same result was not sufficient, I had to adapt. I taught myself to be organised and break down problems which allowed me to take on seemingly daunting tasks. I think it was this experience that lead me to love new challenges. I have a yearning for learning. 
 
 
 #### Skill 2
