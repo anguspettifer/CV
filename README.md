@@ -21,8 +21,7 @@ I am a convert to the practice that Makers preach.
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 | [Petbook](https://github.com/chrisrusselldigital/acebook-petbook) | Group project to make facebook for pets. We followed a 2-day sprint structure, sandwiched with planning sessions and retros. We had a stand up each morning and would take turns in running each of these ceremonies. We maintained a trello board for workflow. You can read about our experience [here](https://medium.com/makers-group-project).  | 2 weeks | Ruby, Rails | Capybara, Rspec |
-| [Airport challenge](https://github.com/anguspettifer/airport_challenge
-) | This was my first weekend project | 2 weeks | Ruby | Rspec |
+| [Airport challenge](https://github.com/anguspettifer/airport_challenge) | This was my first weekend project | 2 weeks | Ruby | Rspec |
 
 
 ## Skills
