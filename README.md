@@ -1,10 +1,14 @@
 ## Angus Pettifer
 
+<p align="center">
+  <a href="https://medium.com/@angus.pettifer">
+    <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42">
+  </a>
+</p>
+
 I am a maths graduate who has leapt out of a (reasonably) successful career in banking to explore the greener grass to the east of the city. I chose software because I love problem solving and wanted to shift into a more creative realm. I am currently learning to learn to code at [Makers](https://makers.tech/) and am excited about what I am going to build today.
 
-I am ambitious and love to learn. I am looking for a professional environment that can foster that passion.
-
-Want to know more about how I think? [Here](https://blog.makersacademy.com/painting-your-face-green-and-making-a-ship-out-of-glass-a-balancing-act-9fc2f9fc1f46) is my blog.
+Want to know more about how I think? [Here](https://blog.makersacademy.com/painting-your-face-green-and-making-a-ship-out-of-glass-a-balancing-act-9fc2f9fc1f46) is my blog. [Here](mailto:angus.pettifer@gmail.com) is my email.
 
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
@@ -13,27 +17,22 @@ Want to know more about how I think? [Here](https://blog.makersacademy.com/paint
 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Gilded Rose](https://github.com/anguspettifer/GildedRose-Refactoring-Kata/commits/master) | Refactoring problem that teaches the value of creating DRY, readable code with single responsibility. Learn more about my process [here](https://medium.com/@angus.pettifer/gilded-rose-the-approach-of-a-maker-c9cc3607499e) | 2 days | JavaScript | Jasmine |
+| [Gilded Rose](https://github.com/anguspettifer/GildedRose-Refactoring-Kata/commits/master) | Refactoring problem that teaches the value of creating DRY, readable code with single responsibility. Learn more about my process [here](https://medium.com/@angus.pettifer/gilded-rose-the-approach-of-a-maker-c9cc3607499e). | 2 days | JavaScript | Jasmine |
 | [Petbook](https://github.com/chrisrusselldigital/acebook-petbook) | Group project to make facebook for pets. We followed a 2-day sprint structure, sandwiched with planning sessions and retros. We had a stand up each morning and would take turns in running each of these ceremonies. We maintained a trello board for workflow. You can read about our experience [here](https://medium.com/makers-group-project).  | 2 weeks | Ruby, Rails | Capybara, Rspec |
 | [Airport challenge](https://github.com/anguspettifer/airport_challenge) | This was my first weekend project, read it to see how far I've come.  | 2 weeks | Ruby | Rspec |
 
 
 ## Skills
 
-#### Skill 1
-
 To work out of my comfort zone
 
 “You have a unique confidence to try something that you have little to no expertise in” a good friend told me when I was considering the career shift to coding. I was flattered by the compliment but, save for the use of the word unique, I think it is fairly accurate. Dyslexia made the early part of my education a slow and frustrating process. Over the years I came to realise that working harder than peers in order to achieve the same result was not sufficient, I had to adapt. I taught myself to be organised and break down problems which allowed me to take on seemingly daunting tasks. I think it was this experience that lead me to love new challenges. I have a yearning for learning.
 
 
-#### Skill 2
-
 Asking why
 
 I am willing to challenge the status quo if I believe that there is a better alternative. As an example, in my most recent role I challenged senior management in the way that we processed government debt auctions as I felt that our existing practice could be more compliant. Following a meeting with management, I set about creating and implementing a new process. This was off my own back and not part of my day-to-day job but something that made the business stronger and less likely to be fined by regulators for improper practice (we had been fined over $50bn since 2008).
 
-#### Skill 3
 
 Communication
 
