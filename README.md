@@ -79,7 +79,7 @@ Prior to that my role included data analysis, investment advice and relationship
 
 Prior to and during university I had a variety of jobs including 5 months teaching maths and AIDS awareness in Uganda; 5 months chalet host in France; 3 months sailing instructor for Sunsail in Turkey; Sports camp leader for Easter and Summer Holidays; Lead insurance rep for MPI broker’s large ski events (≈1500 people).
 
-## Hobbies/Qualifications
+## Hobbies
 
 - Never happier than with a delicious cup of coffee and a copy of the economist or prospect magazine
 - Kitesurfing and Sailing (Dinghy instructor and day skipper) – addicted to wind forecast and pressure charts
