@@ -19,7 +19,7 @@ Want to get in touch? [Here](mailto:angus.pettifer@gmail.com) is my email.
 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Donate, Period](https://github.com/simone-smith/donate-period) | Makers final project. We built a web app that enables a user to wisely donate to a charity by providing a platform for charities to create a wish-list of products they are short of. | 2 weeks | REACT, Node.js, Webpack, Babel, Sequelize, PostgreSQL, JustGiving API | Jest, Enzyme, Cypress |
+| [Donate, Period](https://github.com/simone-smith/donate-period) | Makers final project. We set out to solve a problem in the charity sector whereby charities currently receive donations of items they already have, rather than ones they need. We designed a website where charities can make a wish-list of items they are short of and donors can view these items and make a donation. | 2 weeks | REACT, Node.js, Webpack, Babel, Sequelize, PostgreSQL, JustGiving API | Jest, Enzyme, Cypress |
 | [Gilded Rose](https://github.com/anguspettifer/GildedRose-Refactoring-Kata/commits/master) | Refactoring problem that teaches the value of creating DRY, readable code with single responsibility. Learn more about my process [here](https://medium.com/@angus.pettifer/gilded-rose-the-approach-of-a-maker-c9cc3607499e). | 2 days | JavaScript | Jasmine |
 | [Petbook](https://github.com/chrisrusselldigital/acebook-petbook) | Group project to make facebook for pets. We followed a 2-day sprint structure, sandwiched with planning sessions and retros. We had a stand up each morning and would take turns in running each of these ceremonies. We maintained a trello board for workflow. You can read about our experience [here](https://medium.com/makers-group-project).  | 2 weeks | Ruby, Rails | Capybara, Rspec |
 | [Airport challenge](https://github.com/anguspettifer/airport_challenge) | This was my first weekend project, read it to see how far I've come.  | 2 weeks | Ruby | Rspec |
@@ -27,19 +27,19 @@ Want to get in touch? [Here](mailto:angus.pettifer@gmail.com) is my email.
 
 ## Skills
 
-To work out of my comfort zone
+#### To work out of my comfort zone
 
-“You have a unique confidence to try something that you have little to no expertise in” a good friend told me when I was considering a career shift. It's true, I do like to put myself up for potential failure if I think its something worth trying; and then see what I can learn from the experience. My main evidence of this is my choice to leave a successful career in finance in order to try coding. This was not a rash decision, it was carefully calculated, but it is a significantly more challenging option than had I stayed put.
+“You have a unique confidence to try something that you have little to no expertise in” a good friend told me when I was considering a career shift. It's true, I do like to put myself up for potential failure if I think its something worth trying; and then see what I can learn from the experience. My main evidence of this is my choice to leave a successful career in finance in order to try coding. This was not a rash decision, it was carefully calculated. I wanted to work in a role where I was continually learning, I wanted my work to have a tangible output and I wanted to work with people who follow XP values. Despite the logic, this choice was a significantly more challenging option than had I stayed put.
 
-The reason I do this is that I love to learn and grow from my experiences. I found love with Makers as they absolutely embody the growth mindset, something I had not heard of, but that I hugely adhere to. I would recommend [Bruce Mau's unfinished manifesto for growth](http://www.manifestoproject.it/bruce-mau/), this aligns well with much of what I believe and strive towards.  
+The reason I like to challenge myself is due to my desire to learn and grow from my experiences. I found love with Makers as they absolutely embody the growth mindset, something I had not heard of, but that I hugely adhere to. I would recommend [Bruce Mau's unfinished manifesto for growth](http://www.manifestoproject.it/bruce-mau/), this aligns well with much of what I believe and strive towards.  
 
 
-Asking why
+#### Asking why
 
 I am willing to challenge the status quo if I believe that there is a better alternative. As an example, in my most recent role at Merrill Lynch I challenged senior management in the way that we processed government debt auctions as I felt that our existing practice could be more compliant. Following a meeting with management, I set about creating and implementing a new process. This was off my own back and not part of my day-to-day job but something that made the business stronger and less likely to be fined by regulators for improper practice (we had been fined over $50bn since 2008).
 
 
-Communication
+#### Communication
 
 Working on a trading floor, clear, quick and accurate communication was imperative; a lack of clarity could be very expensive for both the client and the firm. I believe that this will translate well into software development where communication with project managers, the business, UX designers etc is so important. From my team projects at makers I have learnt that speaking up early about an issue can reduce pain down the line.
 
