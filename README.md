@@ -1,14 +1,16 @@
-## Angus Pettifer
-
 <p align="center">
   <a href="https://medium.com/@angus.pettifer">
     <img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42">
   </a>
 </p>
 
-I am a maths graduate who has leapt out of a (reasonably) successful career in banking to explore the greener grass to the east of the city. I chose software because I love problem solving and wanted to shift into a more creative realm. I am currently learning to learn to code at [Makers](https://makers.tech/) and am excited about what I am going to build today.
+## Angus Pettifer
 
-Want to know more about how I think? [Here](https://blog.makersacademy.com/painting-your-face-green-and-making-a-ship-out-of-glass-a-balancing-act-9fc2f9fc1f46) is my blog. [Here](mailto:angus.pettifer@gmail.com) is my email.
+I am a maths graduate who has leapt out of a (reasonably) successful career in banking to explore the greener grass to the east of the city. I chose software because I love problem solving and want to create tangible solutions. I have just graduated from [Makers](https://makers.tech/) where I was learning to learn to code and am excited about what I am going to make today.
+
+Want to know more about how I think? [Here](https://blog.makersacademy.com/painting-your-face-green-and-making-a-ship-out-of-glass-a-balancing-act-9fc2f9fc1f46) is my blog.
+
+Want to get in touch? [Here](mailto:angus.pettifer@gmail.com) is my email.
 
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
@@ -17,6 +19,7 @@ Want to know more about how I think? [Here](https://blog.makersacademy.com/paint
 
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
+| [Donate, Period] (https://github.com/simone-smith/donate-period) | Makers final project. We built a web app that enables a user to wisely donate to charity. Providing a platform for charities to create a wish-list of products they are short of so that donors can donate wisely. | 2 weeks | REACT, Node.js, Webpack, Babel, Sequelize, PostgreSQL, JustGiving API | Jest, Enzyme, Capybara | 
 | [Gilded Rose](https://github.com/anguspettifer/GildedRose-Refactoring-Kata/commits/master) | Refactoring problem that teaches the value of creating DRY, readable code with single responsibility. Learn more about my process [here](https://medium.com/@angus.pettifer/gilded-rose-the-approach-of-a-maker-c9cc3607499e). | 2 days | JavaScript | Jasmine |
 | [Petbook](https://github.com/chrisrusselldigital/acebook-petbook) | Group project to make facebook for pets. We followed a 2-day sprint structure, sandwiched with planning sessions and retros. We had a stand up each morning and would take turns in running each of these ceremonies. We maintained a trello board for workflow. You can read about our experience [here](https://medium.com/makers-group-project).  | 2 weeks | Ruby, Rails | Capybara, Rspec |
 | [Airport challenge](https://github.com/anguspettifer/airport_challenge) | This was my first weekend project, read it to see how far I've come.  | 2 weeks | Ruby | Rspec |
